@@ -1,7 +1,10 @@
-# Hospital Qeue Managment 
+# Hospital Qeue Management
 (Real-Time with PHP Web Socket)
 
 Thank you -> CodeIgniter-Ratchet-Websocket
+URL: https://github.com/kishor10d/CodeIgniter-Ratchet-Websocket
+
+
 
 # ติดตั้งระบบใหม่ต้องดำเนินการดังนี้
 (สำหรับ xampp php 5.5 บน windows เท่านั้น)
