@@ -1,4 +1,4 @@
-# Hospital Qeue Management
+# ระบบจัดการคิวผู้ป่วย
 (Real-Time with PHP Web Socket)
 
 Thank you -> CodeIgniter-Ratchet-Websocket
